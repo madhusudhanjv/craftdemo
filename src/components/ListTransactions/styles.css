@@ -1,0 +1,14 @@
+.list-transactions-container {
+  border: 1px solid #ccc;
+  height: 300px;
+  width: 500px;
+  overflow: auto;
+}
+
+.list-transactions tr {
+  margin: 10px;
+}
+
+.list-transactions td {
+  padding: 10px;
+}

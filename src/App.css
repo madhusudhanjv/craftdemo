@@ -1,0 +1,12 @@
+.root {
+  max-width: 1080px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.application-container {
+  display: flex;
+}
